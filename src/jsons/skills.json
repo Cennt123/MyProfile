@@ -1,0 +1,21 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "10" },
+    { "name": "ReactJS", "rate": "25" },
+    { "name": "NodeJS", "rate": "10" },
+    { "name": "HTML5", "rate": "55" },
+    { "name": "CSS3", "rate": "35" },
+    { "name": "SQL Server", "rate": "30" },
+    { "name": "MongoDB", "rate": "20" }
+
+  ],
+  "techs_2": [
+    { "name": "Networking", "rate": "10" },
+    { "name": "Firebase", "rate": "10" },
+    { "name": "Inertia", "rate": "15" },
+    { "name": "Android Studio", "rate": "15" },
+    { "name": "Tailwind CSS", "rate": "15" },
+    { "name": "Bootstrap CSS", "rate": "15" }
+   
+  ]
+}
