@@ -6,7 +6,7 @@ import { RESUME_TEXT_1, RESUME_TEXT_2 } from 'constants/common';
 
 // Jsons
 import Profiles from 'jsons/profiles.json';
-import Experiences from 'jsons/experiences.json';
+// import Experiences from 'jsons/experiences.json';
 
 // Styles
 import './resume.scss';
@@ -45,7 +45,7 @@ const Resume = () => {
               </div>
             ))}
           </div>
-          <div className="col-lg-6">
+          {/* <div className="col-lg-6">
             <h3 className="resume-title">Professional Experience</h3>
             {Experiences.companies.map((item, index) => {
               const { company, title, duration, tasks } = item;
@@ -64,7 +64,7 @@ const Resume = () => {
                 </div>
               );
             })}
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
